@@ -1,1 +1,1 @@
-# websites_blocker
+If you use Windows as your OS, this python script can stop you from browsing some websites while you are working. First you need to create a duplicate of OS's host file. Then you change the extension of this script from "py" to "pyw". Finally you run this script in task scheduler.
